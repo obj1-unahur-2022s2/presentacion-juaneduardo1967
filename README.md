@@ -4,7 +4,7 @@ Bienvenidos a
 # Programación con objetos I
 Hola, soy Juan Eduardo La Cava. Desde el año pasado , estoy en la licenciatura en Sistemas.
 Soy psicologo y me gusta la tecnologia.
- 
+ (/foto.png)
 
 En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
 Para ello usaremos como herramienta el lenguaje Wollok.
